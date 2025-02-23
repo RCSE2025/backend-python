@@ -1,11 +1,11 @@
 {
   "target": {
-    "awards-api": {
+    "backend-python": {
       "cache-from": [
-        "type=registry,ref=registry.gitlab.com/test-hack12345/users:cache"
+        "type=registry,ref=registry.gitlab.com/test-hack12345/backend-python:cache"
       ],
       "cache-to": [
-        "type=registry,ref=registry.gitlab.com/test-hack12345/users:cache"
+        "type=registry,ref=registry.gitlab.com/test-hack12345/backend-python:cache"
       ],
       "output": [
         "type=docker"
