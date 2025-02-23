@@ -1,0 +1,714 @@
+[
+  {
+    "name": "г. Москва",
+    "district": "",
+    "chief": "Анашкин Евгений Юрьевич",
+    "email": "fspmsk@mail.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/7b0/5n5imvtfzfn32tcqsdr2ce5adv7z73qv.jpg",
+    "iso_code": "ISO 3166-2:RU-MOW"
+  },
+  {
+    "name": "Белгородская область",
+    "district": "Центральный федеральный округ",
+    "chief": "",
+    "email": "belgorod@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/90a/zdd6rs7puopkzzq3tng1o2mu8vzxir4y.jpg",
+    "iso_code": "ISO 3166-2:RU-BEL"
+  },
+  {
+    "name": "Брянская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Казаков Олег Дмитриевич",
+    "email": "bryansk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/818/8e7wp6rwysn3cix42blhcypyul1r78kd.jpg",
+    "iso_code": "ISO 3166-2:RU-BRY"
+  },
+  {
+    "name": "Владимирская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Лисова Анастасия Андреевна",
+    "email": "vladimir@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/a99/1c7rnluv1hd0l8vt5zxkccrs4kt33wyj.jpg",
+    "iso_code": "ISO 3166-2:RU-VLA"
+  },
+  {
+    "name": "Воронежская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Ульянов Владимир",
+    "email": "voronezh@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/010/77pl2zd2p1268s9k9quh1i66140ojdyl.jpg",
+    "iso_code": "ISO 3166-2:RU-VOR"
+  },
+  {
+    "name": "Ивановская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Уралов Сергей Дмитриевич",
+    "email": "lvanovo@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/3ab/izz9pc2hucrsl11sf4ach6d0p9zahqj1.jpg",
+    "iso_code": "ISO 3166-2:RU-IVA"
+  },
+  {
+    "name": "Калужская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Колесников Алексей",
+    "email": "kaluga@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/72d/xbtciyatn40joev77bpjk0a22k5ifs67.jpg",
+    "iso_code": "ISO 3166-2:RU-KLU"
+  },
+  {
+    "name": "Костромская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Диденко Дмитрий Николаевич",
+    "email": "kostroma@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/117/wvcm4npgo9nx3op6ywxo943abgwar8ze.jpg",
+    "iso_code": "ISO 3166-2:RU-KOS"
+  },
+  {
+    "name": "Курская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Журавлев Владимир Борисович",
+    "email": "kursk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/813/dt1qtj0mhez75bkd37cgda5a9tb9b5m8.jpg",
+    "iso_code": "ISO 3166-2:RU-KRS"
+  },
+  {
+    "name": "Липецкая область",
+    "district": "Центральный федеральный округ",
+    "chief": "Даниил Сапронов",
+    "email": "lipetsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/7a1/f75k17emdbojn6n94lrpadyak9pso032.jpg",
+    "iso_code": "ISO 3166-2:RU-LIP"
+  },
+  {
+    "name": "Московская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Анашкин Евгений Юрьевич",
+    "email": "moscow-obl@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/ed1/g6n33a11szyzcp9slgpqewrgbafl8ds3.jpg",
+    "iso_code": "ISO 3166-2:RU-MOS"
+  },
+  {
+    "name": "Орловская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Семкин Александр Николаевич",
+    "email": "oryol@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/b59/07j0o8wrfg4nh8i5wiyncz5p8qw98q0m.jpg",
+    "iso_code": "ISO 3166-2:RU-ORL"
+  },
+  {
+    "name": "Рязанская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Халамцева Евгения Милмировна",
+    "email": "ryazan@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/ce3/6przwt0ypcar93ma7rtv9hy8xov56out.jpg",
+    "iso_code": "ISO 3166-2:RU-RYA"
+  },
+  {
+    "name": "Смоленская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Образцов Сергей Александрович",
+    "email": "smolensk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/b1d/6zvtdehidc4gww1i0kd4gmuiysuow7n6.jpg",
+    "iso_code": "ISO 3166-2:RU-SMO"
+  },
+  {
+    "name": "Тамбовская область",
+    "district": "Центральный федеральный округ",
+    "chief": "",
+    "email": "tambov@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/a0d/r028mo90uqrcipec1tkr922yx513reue.jpg",
+    "iso_code": "ISO 3166-2:RU-TAM"
+  },
+  {
+    "name": "Тверская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Пожидаев Петр Вячеславович",
+    "email": "tver@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/176/6ddp6ck2yzara0ytqwrub1k5wh17poy8.jpg",
+    "iso_code": "ISO 3166-2:RU-TVE"
+  },
+  {
+    "name": "Тульская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Сычугов Алексей Алексеевич",
+    "email": "tula@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/8a2/gvyqx5ib4z474ykva3klyse3idjqlzys.jpg",
+    "iso_code": "ISO 3166-2:RU-TUL"
+  },
+  {
+    "name": "Ярославская область",
+    "district": "Центральный федеральный округ",
+    "chief": "Чалый Дмитрий Юрьевич",
+    "email": "yaroslavl@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/454/ivnf4abzdjz2mqg22y118ianrhu0dlo3.jpg",
+    "iso_code": "ISO 3166-2:RU-YAR"
+  },
+  {
+    "name": "Республика Адыгея",
+    "district": "Южный федеральный округ",
+    "chief": "Алиев Марат Вячеславович",
+    "email": "adygea@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/18f/0jgklfvu5hyukggqrinirihnyat97rwb.jpg",
+    "iso_code": "ISO 3166-2:RU-AD"
+  },
+  {
+    "name": "Республика Калмыкия",
+    "district": "Южный федеральный округ",
+    "chief": "Муниев Аркадий Михайлович",
+    "email": "kalmykia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/0da/yocsbyxohcgsvwz3qbctpr69ibkemvoa.jpg",
+    "iso_code": "ISO 3166-2:RU-KL"
+  },
+  {
+    "name": "Краснодарский край",
+    "district": "Южный федеральный округ",
+    "chief": "Алферов Сергей Сергеевич",
+    "email": "krasnodar@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/820/mcqxi2s5h1dbb1e96r701mbjluzpifs8.jpg",
+    "iso_code": "ISO 3166-2:RU-KDA"
+  },
+  {
+    "name": "Астраханская область",
+    "district": "Южный федеральный округ",
+    "chief": "Асадуллина Юлия Альбертовна",
+    "email": "astrakhan@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/71b/7720gkmxx1k3o36non3b2tck83o3didi.jpg",
+    "iso_code": "ISO 3166-2:RU-AST"
+  },
+  {
+    "name": "Волгоградская область",
+    "district": "Южный федеральный округ",
+    "chief": "Попова Елена Владимировна",
+    "email": "volgograd@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/ef0/a4j4cwsj1xerjf3z6938plgpo44115cb.jpg",
+    "iso_code": "ISO 3166-2:RU-VGG"
+  },
+  {
+    "name": "Ростовская область",
+    "district": "Южный федеральный округ",
+    "chief": "Савва Станислав Анатольевич",
+    "email": "rostov@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/759/61glsmminfhyerkpfrxtfyzk07yrh51r.jpg",
+    "iso_code": "ISO 3166-2:RU-ROS"
+  },
+  {
+    "name": "город Севастополь",
+    "district": "Южный федеральный округ",
+    "chief": "Царенко Михаил Геннадьевич",
+    "email": "sevastopol@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/892/dijsncgdz5se0xxhu0ozme0x4ghlwomq.jpg",
+    "iso_code": "ISO 3166-2:RU-SEV"
+  },
+  {
+    "name": "Республика Крым",
+    "district": "Южный федеральный округ",
+    "chief": "Зырянов Сергей Геннадиевич",
+    "email": "crimea@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/d8f/5a4i80y0t86pa8rwt3c8pfddk7seskgi.jpg",
+    "iso_code": "ISO 3166-2:RU-CRI"
+  },
+  {
+    "name": "Республика Карелия",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Каширин Александр Алексеевич",
+    "email": "karelia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/4e2/23qgas5621kvuw3li7n9kihqlk8bxpqc.jpg",
+    "iso_code": "ISO 3166-2:RU-KR"
+  },
+  {
+    "name": "Республика Коми",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Некрасов Александр Николаевич",
+    "email": "komi@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/b73/02dee6q1u6vg604a1njjovyom7zhh4o4.jpg",
+    "iso_code": "ISO 3166-2:RU-KO"
+  },
+  {
+    "name": "Архангельская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Алексей Алескандрович Лисьев",
+    "email": "arkhangelsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/23c/j8pq20g2g6g0da73djdy7f52vf8nqw69.jpg",
+    "iso_code": "ISO 3166-2:RU-ARK"
+  },
+  {
+    "name": "Калининградская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Дубинин Иван Витальевич",
+    "email": "info@fsp-kaliningrad.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/787/9xxtt1brhrcrznjdvva1yiedgvwxxyyo.jpg",
+    "iso_code": "ISO 3166-2:RU-KGD"
+  },
+  {
+    "name": "Ленинградская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Корф Виктор Сергеевич",
+    "email": "leningrad@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/bec/xcapgnwi1w2l9uf9nwfji1o7f9wr8blu.jpg",
+    "iso_code": "ISO 3166-2:RU-LEN"
+  },
+  {
+    "name": "Мурманская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Шляпников Денис Игоревич",
+    "email": "murmansk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/71a/ntlibcnwm53vxreyadwbyg5h0z0cakgo.jpg",
+    "iso_code": "ISO 3166-2:RU-MUR"
+  },
+  {
+    "name": "Новгородская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Богданов Михаил Михайлович",
+    "email": "novgorod@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/30a/6uhkt0rwlcoo3dzlh3xtgimy3c1cxvo6.jpg",
+    "iso_code": "ISO 3166-2:RU-NGR"
+  },
+  {
+    "name": "Псковская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Степаненков Марк Валерьевич",
+    "email": "pskov@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/c66/215ud67l0q5f5ipdwhgrunobi3u16zgk.jpg",
+    "iso_code": "ISO 3166-2:RU-PSK"
+  },
+  {
+    "name": "Ненецкий АО",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Демчик Ирина Игоревна",
+    "email": "nenets@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/4f8/ft0vr54jb2dtr4oh5ury6o4il5hmmzlo.jpg",
+    "iso_code": "ISO 3166-2:RU-NEN"
+  },
+  {
+    "name": "Вологодская область",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Мельников Олег Николаевич",
+    "email": "vologda@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/57a/jndiv9yx8odi8hp93qbi88gzngqvf5vx.jpg",
+    "iso_code": "ISO 3166-2:RU-VLG"
+  },
+  {
+    "name": "г. Санкт Петербург",
+    "district": "Северо-западный федеральный округ",
+    "chief": "Кувиков Денис",
+    "email": "saint-petersburg@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/635/fgefa46p3zl1hztcx5i14t9f02oq50tt.jpg",
+    "iso_code": "ISO 3166-2:RU-SPE"
+  },
+  {
+    "name": "Республика Саха-Якутия",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Николаев Николай Борисович",
+    "email": "sakha@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/ef1/z2dxw8rl2z4wb7iufro5n4uviokrbx1a.jpg",
+    "iso_code": "ISO 3166-2:RU-SA"
+  },
+  {
+    "name": "Камчатский край",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Дресвянский Владимир Сергеевич",
+    "email": "kamchatka@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/a14/qcmt7xapkn6o9cvkp30725bzwr455mvx.jpg",
+    "iso_code": "ISO 3166-2:RU-KAM"
+  },
+  {
+    "name": "Приморский край",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Снитко Владимир Алексеевич",
+    "email": "primorsky@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/4d9/f808pi0klhm1bxkxvmwktlxcagkpi3nz.jpg",
+    "iso_code": "ISO 3166-2:RU-PRI"
+  },
+  {
+    "name": "Хабаровский край",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Бородинов Николай Александрович",
+    "email": "khabarovsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/ed2/s4ee1n5jroyiu6kbotw1aw3d37lg62nq.jpg",
+    "iso_code": "ISO 3166-2:RU-KHA"
+  },
+  {
+    "name": "Амурская область",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Попов Руслан Игоревич",
+    "email": "amur@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/b70/6gv2x61g21ldww192x8y3xn9qyuhsgs7.jpg",
+    "iso_code": "ISO 3166-2:RU-AMU"
+  },
+  {
+    "name": "Магаданская область",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Бережной Антон Константинович",
+    "email": "magadan@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/11e/3513yn2otclb02fn8ap77wx8sledoh8k.jpg",
+    "iso_code": "ISO 3166-2:RU-MAG"
+  },
+  {
+    "name": "Республика Бурятия",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Пьянников Владимир Сергеевич",
+    "email": "buryatia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/c54/29svg226207h8yar0e3nn0zcq4i973r3.jpg",
+    "iso_code": "ISO 3166-2:RU-BU"
+  },
+  {
+    "name": "Забайкальский край",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Метельский Тарас Леонидович",
+    "email": "zabaykalsky@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/db5/kw3k1hjlcwk9jt32swi6fwelr7ka2lhu.jpg",
+    "iso_code": "ISO 3166-2:RU-ZAB"
+  },
+  {
+    "name": "Сахалинская область",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Соболев Евгений Игоревич",
+    "email": "sakhalin@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/01a/cfnrjosbelh201wnkpd9r17tp0ycrcma.jpg",
+    "iso_code": "ISO 3166-2:RU-SAK"
+  },
+  {
+    "name": "Еврейский АО",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Пешков Григорий Сергеевич",
+    "email": "jewish@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/db6/vsty7gls7vdhdfrtiifsc5m4blhvelyh.jpg",
+    "iso_code": "ISO 3166-2:RU-YEV"
+  },
+  {
+    "name": "Чукотский АО",
+    "district": "Дальневосточный федеральный округ",
+    "chief": "Косов Георгий Александрович",
+    "email": "chukotka@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/6c3/31aj96q7csh4vgz6wg1el5q4cvqknmxp.jpg",
+    "iso_code": "ISO 3166-2:RU-CHU"
+  },
+  {
+    "name": "Республика Алтай",
+    "district": "Сибирский федеральный округ",
+    "chief": "Шило Светлана Анатольевна",
+    "email": "altai@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/be3/d5ebrd2f329rzjftihgf2z3et70hlbvm.jpg",
+    "iso_code": "ISO 3166-2:RU-AL"
+  },
+  {
+    "name": "Республика Тыва",
+    "district": "Сибирский федеральный округ",
+    "chief": "Оюн Субудай Викторович",
+    "email": "tuva@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/e21/bje5xj1bkj84mj1n18kr5voxzmwr1zhb.jpg",
+    "iso_code": "ISO 3166-2:RU-TY"
+  },
+  {
+    "name": "Республика Хакасия",
+    "district": "Сибирский федеральный округ",
+    "chief": "Шпигальский Денис Олегович",
+    "email": "khakassia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/879/htyeaem5o3qs4u93jh1o6qg1iz3af54o.jpg",
+    "iso_code": "ISO 3166-2:RU-KK"
+  },
+  {
+    "name": "Алтайский край",
+    "district": "Сибирский федеральный округ",
+    "chief": "Егораев Алексей Анатольевич",
+    "email": "altai-k@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/822/pm0b2uz13r5nfjantzana1r3j0e36n8i.jpg",
+    "iso_code": "ISO 3166-2:RU-ALT"
+  },
+  {
+    "name": "Красноярский край",
+    "district": "Сибирский федеральный округ",
+    "chief": "Капулин Денис Владимирович",
+    "email": "krasnoyarsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/98c/8vgrq2qqftck3uqgryscx1x0uib9a8fc.jpg",
+    "iso_code": "ISO 3166-2:RU-KYA"
+  },
+  {
+    "name": "Иркутская область",
+    "district": "Сибирский федеральный округ",
+    "chief": "Ищенко Роман",
+    "email": "irkutsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/a85/wu1uqone2s27759afdp2j3agd0kexwb1.jpg",
+    "iso_code": "ISO 3166-2:RU-IRK"
+  },
+  {
+    "name": "Кемеровская область   Кузбасс",
+    "district": "Сибирский федеральный округ",
+    "chief": "Попов Александр Сергеевич",
+    "email": "kuzbass@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/27e/j53vmqf2wajy1vg71doajogw4zjalr6x.jpg",
+    "iso_code": "ISO 3166-2:RU-KEM"
+  },
+  {
+    "name": "Новосибирская область",
+    "district": "Сибирский федеральный округ",
+    "chief": "Данилов Максим Олегович",
+    "email": "novosiblrsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/c7c/5wv1fvut6fpyfwe8gocsrmvonb4i7u7l.jpg",
+    "iso_code": "ISO 3166-2:RU-NVS"
+  },
+  {
+    "name": "Омская область",
+    "district": "Сибирский федеральный округ",
+    "chief": "Иванищев Юрий Ильич",
+    "email": "omsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/ffd/bkwcs7df10mjam1qm0g5aucrekjpmdfx.jpg",
+    "iso_code": "ISO 3166-2:RU-OMS"
+  },
+  {
+    "name": "Томская область",
+    "district": "Сибирский федеральный округ",
+    "chief": "Буинцев Дмитрий Николаевич",
+    "email": "tomsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/3bb/kee5mhggd0p3ssmr6e25mf4ltjyub2f0.jpg",
+    "iso_code": "ISO 3166-2:RU-TOM"
+  },
+  {
+    "name": "Курганская область",
+    "district": "Уральский федеральный округ",
+    "chief": "Белоусов Михаил Александрович",
+    "email": "kurgan@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/53a/4846rggi947ybs85yli64oyvmd1105qp.jpg",
+    "iso_code": "ISO 3166-2:RU-KGN"
+  },
+  {
+    "name": "Свердловская область",
+    "district": "Уральский федеральный округ",
+    "chief": "Обабков Илья Николаевич",
+    "email": "sverdlovsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/24d/fz65lydsdlmifn2aa7von0aiwjnsqzu1.jpg",
+    "iso_code": "ISO 3166-2:RU-SVE"
+  },
+  {
+    "name": "Тюменская область",
+    "district": "Уральский федеральный округ",
+    "chief": "Сенкевич Людмила Борисовна",
+    "email": "tyumen@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/b74/c5vh3pnyt8t579kl9apx33zv03a7dmjj.jpg",
+    "iso_code": "ISO 3166-2:RU-TYU"
+  },
+  {
+    "name": "Челябинская область",
+    "district": "Уральский федеральный округ",
+    "chief": "Нечет Сергей Геннадьевич",
+    "email": "chelyablnsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/7de/p9sy48aw41v26i1v8twrjxwzmw6863jx.jpg",
+    "iso_code": "ISO 3166-2:RU-CHE"
+  },
+  {
+    "name": "Ханты-Мансийский АО - Югра",
+    "district": "Уральский федеральный округ",
+    "chief": "Давлетшин Родион Айратович",
+    "email": "hmao@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/f54/asnvytrv8f5r6v3jbydw17etbujt4ewb.jpg",
+    "iso_code": "ISO 3166-2:RU-KHM"
+  },
+  {
+    "name": "Ямало Ненецкий АО",
+    "district": "Уральский федеральный округ",
+    "chief": "Гашимова Лариса Павловна",
+    "email": "yamalo-nenets@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/1df/zyw6zhf7hw2p985n6jqsgx3kuahnfztu.jpg",
+    "iso_code": "ISO 3166-2:RU-YAN"
+  },
+  {
+    "name": "Республика Башкортостан",
+    "district": "Приволжский федеральный округ",
+    "chief": "Юлия Валиахметова",
+    "email": "bashkortostan@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/1f9/b8iftevmxqil4dlcm62497jf6usz3mr1.jpg",
+    "iso_code": "ISO 3166-2:RU-BA"
+  },
+  {
+    "name": "Республика Марий Эл",
+    "district": "Приволжский федеральный округ",
+    "chief": "Куликова Екатерина Ивановна",
+    "email": "mari-ei@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/6c7/7d7t0c5g477xds7nen0vvgl8v0p5wipn.jpg",
+    "iso_code": "ISO 3166-2:RU-ME"
+  },
+  {
+    "name": "Республика Мордовия",
+    "district": "Приволжский федеральный округ",
+    "chief": "Бекшаев Дмитрий Александрович",
+    "email": "mordovia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/9b0/mu6qd5jkr44lvhj9gchl2valy5bp38br.jpg",
+    "iso_code": "ISO 3166-2:RU-MO"
+  },
+  {
+    "name": "Республика Татарстан",
+    "district": "Приволжский федеральный округ",
+    "chief": "Серочудинов Евгений Сергеевич",
+    "email": "fsprt@inbox.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/723/oyrasmt0ad973vrlux489t8yiqyg1djz.jpg",
+    "iso_code": "ISO 3166-2:RU-TA"
+  },
+  {
+    "name": "Удмуртская Республика",
+    "district": "Приволжский федеральный округ",
+    "chief": "Пигалев Сергей Александрович",
+    "email": "udmurtia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/bad/ysn9b59bwp8njnww9tjen7r2nzpytbgo.jpg",
+    "iso_code": "ISO 3166-2:RU-UD"
+  },
+  {
+    "name": "Чувашская Республика",
+    "district": "Приволжский федеральный округ",
+    "chief": "Набиев Александр Эльдарович",
+    "email": "fspchuv@mail.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/b2c/i2xdpi4m2drccjnu9v24vmqf80rnty88.jpg",
+    "iso_code": "ISO 3166-2:RU-CU"
+  },
+  {
+    "name": "Кировская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Кокарев Дмитрий Михайлович",
+    "email": "kirov@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/174/fvnx0cq47qrlsw0ez3tubeakl466tw7x.jpg",
+    "iso_code": "ISO 3166-2:RU-KIR"
+  },
+  {
+    "name": "Нижегородская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Небольсин Михаил Юрьевич",
+    "email": "nizhny-novgorod@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/a95/u2xh21nx8xjcnaukcjzy6lab0s58e7t2.jpg",
+    "iso_code": "ISO 3166-2:RU-NIZ"
+  },
+  {
+    "name": "Оренбургская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Вечеренко Дмитрий Сергеевич",
+    "email": "orenburg@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/109/bnini3enbob0k84wiibqgtsnw1yyfx8n.jpg",
+    "iso_code": "ISO 3166-2:RU-ORE"
+  },
+  {
+    "name": "Пензенская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Строителева Алина Андреевна",
+    "email": "penza@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/c31/oepriibdn4mwosj8w09zssziopov09ca.jpg",
+    "iso_code": "ISO 3166-2:RU-PNZ"
+  },
+  {
+    "name": "Пермский край",
+    "district": "Приволжский федеральный округ",
+    "chief": "Ягофаров Оскар Фаитович",
+    "email": "perm@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/cb9/7qx2ijea0e8sc5g8d6wepl9aytk3c4qt.jpg",
+    "iso_code": "ISO 3166-2:RU-PER"
+  },
+  {
+    "name": "Самарская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Бабенко Михаил Владимирович",
+    "email": "samara@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/8f2/emw9yyesaqvoiijt8z8702ye6tjfvkig.jpg",
+    "iso_code": "ISO 3166-2:RU-SAM"
+  },
+  {
+    "name": "Саратовская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Федорова Антонина Гавриловна",
+    "email": "saratov@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/c49/2myab7t585flzrt9mpnwmfpawu57gx74.jpg",
+    "iso_code": "ISO 3166-2:RU-SAR"
+  },
+  {
+    "name": "Ульяновская область",
+    "district": "Приволжский федеральный округ",
+    "chief": "Павлов Вадим Вячеславович",
+    "email": "ulyanovsk@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/1de/m3etwidocqnhhiz3cl17i68o578763eh.jpg",
+    "iso_code": "ISO 3166-2:RU-ULY"
+  },
+  {
+    "name": "Республика Дагестан",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Абдулаев Магомед Магомедгаджиевич",
+    "email": "Fsprd@mail.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/d52/tzl13k7kd06kmv318xx60ju533v0rdz5.jpg",
+    "iso_code": "ISO 3166-2:RU-DA"
+  },
+  {
+    "name": "Республика Ингушетия",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Найденко Роман Анатольевич",
+    "email": "lngushetia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/deb/2san37ozd2fvt77msovho39ceep399b2.jpg",
+    "iso_code": "ISO 3166-2:RU-IN"
+  },
+  {
+    "name": "Кабардино-Балкарская Республика",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Тюбеев Мурат Абдуллахович",
+    "email": "kabardino-balkaria@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/8dc/sc4x0hjgyeddcdphm8p7epwmdu41ug88.jpg",
+    "iso_code": "ISO 3166-2:RU-KB"
+  },
+  {
+    "name": "Карачаево-Черкесская Республика",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Андропов Константин Сергеевич",
+    "email": "karachay-cherkessia@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/29f/24cy7il3hdkv6jxwiw6opovqb7lsa9xm.jpg",
+    "iso_code": "ISO 3166-2:RU-KC"
+  },
+  {
+    "name": "Республика Северная Осетия - Алания",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Нартиков Александр Георгиевич",
+    "email": "ossetia-alania@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/d4a/iwxdq9zsybtbl25qmq0o8pp4xgyjwtp1.jpg",
+    "iso_code": "ISO 3166-2:RU-SE"
+  },
+  {
+    "name": "Ставропольский край",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Пижевский Дмитрий Евгеньевич",
+    "email": "stavropol@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/de6/hsaz5w09zoycm2wt27p1p35ex315c8cf.jpg",
+    "iso_code": "ISO 3166-2:RU-STA"
+  },
+  {
+    "name": "Чеченская Республика",
+    "district": "Северо-Кавказский федеральный округ",
+    "chief": "Саидов Зубайр Ахмедович",
+    "email": "chechnya@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/bd2/fl839rfcspmfktt7zi5k246862xta7an.jpg",
+    "iso_code": "ISO 3166-2:RU-CE"
+  },
+  {
+    "name": "Донецкая Народная Республика",
+    "district": "Новые регионы",
+    "chief": "Станков Игорь Валентинович",
+    "email": "fsp-dnr@mail.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/7bd/h5wievsauq2wywbz428cw4hjn9zf84bj.jpg",
+    "iso_code": "ISO 3166-2:RU-DON"
+  },
+  {
+    "name": "Луганская Народная Республика",
+    "district": "Новые регионы",
+    "chief": "Мальцева-Светличная Ольга Валерьевна",
+    "email": "fsp_lnr@mail.ru сайт: www.fsp-lnr.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/584/yawii7yzdof959n9lef7oe99ud5g6qow.jpg",
+    "iso_code": "ISO 3166-2:RU-LUH"
+  },
+  {
+    "name": "Запорожская область",
+    "district": "Новые регионы",
+    "chief": "Букреев Дмитрий",
+    "email": "directum@fsp-zo.ru",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/043/56ww5rnxbpczl4fgsr51vl31oqw9r8of.jpg",
+    "iso_code": "ISO 3166-2:RU-ZAP"
+  },
+  {
+    "name": "Херсонская область",
+    "district": "Новые регионы",
+    "chief": "",
+    "email": "kherson@fsp-russia.com",
+    "region_emblem_url": "https://fsp-russia.com/upload/iblock/9d4/amc3vbsl5i82sx7labf4j6healv3f9ku.jpg",
+    "iso_code": "ISO 3166-2:RU-KH"
+  }
+]

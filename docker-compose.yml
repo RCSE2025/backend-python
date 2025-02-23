@@ -1,0 +1,56 @@
+version: '3.8'
+
+x-app_api-variables: &app_api-variables
+  DB_USER: postgres
+  DB_PASSWORD: postgres
+  DB_NAME: app_api
+  DB_HOST: api_database
+  DB_PORT: 5432
+  PRODUCTION: "true"
+  METRICS: "true"
+  SECRET_KEY: ${SECRET_KEY}
+
+
+services:
+  backend-python:
+    build: .
+    command: python main.py
+    ports:
+      - '8078:80'
+    environment:
+      <<: *app_api-variables
+#     volumes:
+#       - ./:/app
+    restart: always
+    depends_on:
+      - api_database
+
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost/ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+
+  api_database:
+    image: postgres:16
+    command: postgres -N 100
+    volumes:
+      - api_database_volume:/var/lib/postgresql/data/
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=app_api
+    ports:
+      - '54325:5432'
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U postgres']
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  api_database_volume:
+
+

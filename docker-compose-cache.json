@@ -1,0 +1,15 @@
+{
+  "target": {
+    "awards-api": {
+      "cache-from": [
+        "type=registry,ref=registry.gitlab.com/test-hack12345/users:cache"
+      ],
+      "cache-to": [
+        "type=registry,ref=registry.gitlab.com/test-hack12345/users:cache"
+      ],
+      "output": [
+        "type=docker"
+      ]
+    }
+  }
+}

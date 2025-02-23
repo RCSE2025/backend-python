@@ -1,0 +1,6 @@
+run:
+	docker compose --env-file .env -f docker-compose.yml up --build
+
+lint:
+	isort .
+	black .
