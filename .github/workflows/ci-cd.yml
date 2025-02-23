@@ -17,7 +17,7 @@ env:
 
   DEPLOY_STACK_NAME: test-hack
 
-  HOST: root@{{ secrets.SERVER_IP }}
+  HOST: root@${{ secrets.SERVER_IP }}
   DEPLOY_DIRECTORY: /home/test-hack/backend-python # путь до директории для деплоя
   SSH_PORT: 22 # ssh port
 
