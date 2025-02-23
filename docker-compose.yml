@@ -30,7 +30,7 @@ services:
 #       - ./:/app
     restart: always
     depends_on:
-      - api_database
+      - backend-python_database
 
     healthcheck:
       test: ["CMD", "curl", "--fail", "http://localhost/ping"]
