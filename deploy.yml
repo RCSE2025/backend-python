@@ -45,7 +45,7 @@ services:
       - "default"
       - "traefik"
 
-  api_database:
+  backend-python_database:
     deploy:
       replicas: 1
       update_config:
@@ -76,5 +76,5 @@ networks:
     name: test-hack
     external: true
   traefik:
-    name: traefik-public
+    name: traefik-swarm
     external: true
