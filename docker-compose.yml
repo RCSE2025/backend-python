@@ -14,14 +14,13 @@ x-app_api-variables: &app_api-variables
   MAIL_HOST: "mail.hosting.reg.ru"
   MAIL_PORT: 587
   MAIL_TLS: "true"
-
+  # TODO: change site_url
   SITE_URL: "https://fsp-hub.ru"
 
 
 services:
   backend-python:
     build: .
-    command: python main.py
     ports:
       - '8078:80'
     environment:
