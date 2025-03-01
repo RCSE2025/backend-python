@@ -47,4 +47,4 @@ def load_models():
     Please, do not forget to update import once new models are applied to app
     :return:
     """
-    from app.users.models import User
+    from app.tickets.models import Ticket

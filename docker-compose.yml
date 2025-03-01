@@ -25,14 +25,14 @@ services:
       - '8078:80'
     environment:
       <<: *app_api-variables
-#     volumes:
-#       - ./:/app
+    volumes:
+      - ./:/app
     restart: always
     depends_on:
       - backend-python_database
 
     healthcheck:
-      test: ["CMD", "curl", "--fail", "http://localhost/ping"]
+      test: [ "CMD", "curl", "--fail", "http://localhost/ping" ]
       interval: 10s
       timeout: 10s
       retries: 5
@@ -51,7 +51,7 @@ services:
     ports:
       - '54325:5432'
     healthcheck:
-      test: ['CMD-SHELL', 'pg_isready -U postgres']
+      test: [ 'CMD-SHELL', 'pg_isready -U postgres' ]
       interval: 5s
       timeout: 5s
       retries: 5
