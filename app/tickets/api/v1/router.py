@@ -1,18 +1,16 @@
-from typing import Annotated, List
+from typing import Annotated, List, Sequence
 
 from fastapi import APIRouter, Depends, Form, Header, Query
 
+from app.tickets.models import Ticket
 from app.tickets.schemas import Tickets
 from app.tickets.services import TicketsService
 
 tickets_router = APIRouter(tags=["tickets"], prefix="/tickets")
 
 
-@tickets_router.get("/tickets")
-async def get_tickets(
-    page: int = 1,
-    page_size: int = 10,
-    query: str = "") -> Tickets:
+@tickets_router.get("/")
+async def get_tickets():
     return await TicketsService().get_all()
 #
 # @users_router.post("/register")

@@ -1,3 +1,3 @@
 __all__ = "router"
 
-from .router import users_router
+from .router import tickets_router
