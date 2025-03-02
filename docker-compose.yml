@@ -3,8 +3,8 @@ version: '3.8'
 x-app_api-variables: &app_api-variables
   DB_USER: postgres
   DB_PASSWORD: postgres
-  DB_NAME: app_api
-  DB_HOST: backend-python_database
+  DB_NAME: postgres
+  DB_HOST: backend-go-postgres
   DB_PORT: 5432
   PRODUCTION: "true"
   METRICS: "true"
