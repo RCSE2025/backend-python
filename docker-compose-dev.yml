@@ -1,0 +1,62 @@
+version: '3.8'
+
+x-app_api-variables: &app_api-variables
+  DB_USER: postgres
+  DB_PASSWORD: postgres
+  DB_NAME: postgres
+  DB_HOST: backend-python_database
+  DB_PORT: 5432
+  PRODUCTION: "true"
+  METRICS: "true"
+  SECRET_KEY: "123"
+  MAIL_MAIN_ADDRESS: "info@fsp-hub.ru"
+  MAIL_MAIN_ADDRESS_PASSWORD: "WNqAiEUy35TfqR6"
+  MAIL_HOST: "mail.hosting.reg.ru"
+  MAIL_PORT: 587
+  MAIL_TLS: "true"
+  # TODO: change site_url
+  SITE_URL: "https://fsp-hub.ru"
+
+
+services:
+  backend-python:
+    build: .
+    ports:
+      - '8078:80'
+    environment:
+      <<: *app_api-variables
+#    volumes:
+#      - ./:/app
+    restart: always
+    depends_on:
+      - backend-python_database
+
+    healthcheck:
+      test: [ "CMD", "curl", "--fail", "http://localhost/ping" ]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+
+
+  backend-python_database:
+    image: postgres:16
+    command: postgres -N 100
+    volumes:
+      - backend-python_database_volume:/var/lib/postgresql/data/
+    restart: always
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=app_api
+    ports:
+      - '54325:5432'
+    healthcheck:
+      test: [ 'CMD-SHELL', 'pg_isready -U postgres' ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  backend-python_database_volume:
+
+
