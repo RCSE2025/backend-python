@@ -25,8 +25,8 @@ services:
       - '8078:80'
     environment:
       <<: *app_api-variables
-    volumes:
-      - ./:/app
+#    volumes:
+#      - ./:/app
     restart: always
     depends_on:
       - backend-python_database
