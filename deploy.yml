@@ -16,7 +16,7 @@ services:
         - "logging_jobname=containerlogs"
 
         - "traefik.enable=true"
-        - "traefik.http.routers.backend-python.rule=Host(`backend-python.hack.vingp.dev`)"
+        - "traefik.http.routers.backend-python.rule=Host(`ticket-system.ryazan-market.ru`)"
         - "traefik.http.routers.backend-python.entrypoints=https,http"
         - "traefik.http.routers.backend-python.tls.certresolver=myresolver"
         - "traefik.http.services.backend-python.loadbalancer.server.port=80"
